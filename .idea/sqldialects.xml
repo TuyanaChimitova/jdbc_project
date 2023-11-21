@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/test/resources/OfficeHours/Morning.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/Queries/DAY2/aggreagte_functions.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/Queries/DAY2/groupBy.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/Queries/DAY2/like.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/Queries/Day1/distinct.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/Queries/Day1/order_by.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/Queries/Day1/where.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/Queries/Day3/DDL_DML.SQL" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/Queries/Day3/review.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/Queries/Day3/rownum.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/Queries/LiveSession/Rewiew.sql" dialect="GenericSQL" />
+  </component>
+</project>
